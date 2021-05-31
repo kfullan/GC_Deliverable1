@@ -1,0 +1,13 @@
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.exe
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.deps.json
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.json
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.runtimeconfig.dev.json
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\kfull\source\repos\deliverable1\bin\Debug\netcoreapp3.1\deliverable1.pdb
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.csprojAssemblyReference.cache
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfoInputs.cache
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.AssemblyInfo.cs
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.dll
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.pdb
+C:\Users\kfull\source\repos\deliverable1\obj\Debug\netcoreapp3.1\deliverable1.genruntimeconfig.cache
